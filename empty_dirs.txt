@@ -1,0 +1,741 @@
+C:\Users\korisnik\.cache\huggingface\hub\.locks\models--Systran--faster-whisper-large-v2
+C:\Users\korisnik\.chocolatey\http-cache\.locks
+C:\Users\korisnik\.vscode\cli
+C:\Users\korisnik\Desktop\Fakultet\Faklutet_code\.git\objects\info
+C:\Users\korisnik\Desktop\Fakultet\Faklutet_code\.git\refs\tags
+C:\Users\korisnik\Desktop\Fakultet\RM2
+C:\Users\korisnik\Desktop\Financa\2019\Pagesat me banke\Pagesa per MEPJ-ne dhe Te Trete
+C:\Users\korisnik\Desktop\Financa\2020\New folder\New folder
+C:\Users\korisnik\Desktop\Financa\2020\Statistikat mujore\06. Qershor 2020\Banka\Euro
+C:\Users\korisnik\Desktop\Financa\2020\Statistikat mujore\06. Qershor 2020\Banka\RSD
+C:\Users\korisnik\Desktop\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\objects\info
+C:\Users\korisnik\Desktop\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\objects\pack
+C:\Users\korisnik\Desktop\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\refs\tags
+C:\Users\korisnik\Desktop\Financa\2020\_Other\ListePagesat
+C:\Users\korisnik\Desktop\Financa\2021\Pagat\New folder
+C:\Users\korisnik\Desktop\Financa\2021\SNPDV dhe LNPDV\PDF version\ngrohja
+C:\Users\korisnik\Desktop\Financa\2021\Statistikat mujore\12. Dhjetor 2020\Raportimi Mujor
+C:\Users\korisnik\Desktop\Financa\2021\_Other\ListePagesat
+C:\Users\korisnik\Desktop\Financa\2022\Protokolli Diplomatik 2022
+C:\Users\korisnik\Desktop\Financa\2023\Kerkesa per MEPJ-ne\Raportimi i listepageses
+C:\Users\korisnik\Desktop\Financa\2023\Pagat\2021\New folder
+C:\Users\korisnik\Desktop\Financa\2023\Pagesat me BANKE\7. Uji\Ambasada, 2022\Fatura
+C:\Users\korisnik\Desktop\Financa\2023\Pagesat me BANKE\Transferim parash tek viza karta\2022
+C:\Users\korisnik\Desktop\Financa\2023\Protokolli Diplomatik 2022
+C:\Users\korisnik\Desktop\Financa\2023\Sigurmiet Shendetesore\New folder
+C:\Users\korisnik\Desktop\Financa\2023\SNA, SNPDV\2023\infostan
+C:\Users\korisnik\Desktop\Financa\2023\SNA, SNPDV\2023\New folder
+C:\Users\korisnik\Desktop\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\objects\info
+C:\Users\korisnik\Desktop\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\objects\pack
+C:\Users\korisnik\Desktop\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\refs\tags
+C:\Users\korisnik\Desktop\Financa\2023\Statsitikat mujore 2\Raportimi 2023\Banka
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Kerkesa per MEPJ-ne\Raportimi i listepageses
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Pagat\2021\New folder
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Pagesat me BANKE\7. Uji\Ambasada, 2022\Fatura
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Pagesat me BANKE\Transferim parash tek viza karta\2022
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Protokolli Diplomatik 2022
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Sigurmiet Shendetesore\New folder
+C:\Users\korisnik\Desktop\Financa\2023 (1)\SNA, SNPDV\2023\infostan
+C:\Users\korisnik\Desktop\Financa\2023 (1)\SNA, SNPDV\2023\New folder
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\.git\objects\info
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\.git\objects\pack
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\.git\refs\tags
+C:\Users\korisnik\Desktop\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\Banka
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Automjetet\Dhjetor 2023
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Instruksionet bankare
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Pagesat\00. Pagat
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Pagesat\01. Qirate
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Pagesat\04. Ngrohja\Banesa e z. Idlir Kaba
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Pagesat\04. Ngrohja\Bankesa e z. Ambasador
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Pagesat\05. Energjia elektrike\Banesa e z. Idlir Kaba 2023
+C:\Users\korisnik\Desktop\Financa\2023 (2)\Pagesat\07. Uji\Ambasada, 2022\Fatura
+C:\Users\korisnik\Desktop\Financa\2023 (2)\statistika_mujore\03. Mars 2023\Banka
+C:\Users\korisnik\Desktop\Financa\2023 (2)\statistika_mujore\04. Prill 2023\Banka
+C:\Users\korisnik\Desktop\Financa\2023 (2)\statistika_mujore\Te derguara shkresat\12. Dhjetor 2023
+C:\Users\korisnik\Desktop\Financa\2024\01. Pagesa, Banka\05. Ngrohja\Banesa e z. Idlir Kaba
+C:\Users\korisnik\Desktop\Financa\2024\01. Pagesa, Banka\07. Uji\Ambasada, 2024\Fatura
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\.git\objects\info
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\.git\objects\pack
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\.git\refs\tags
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\05. Maj 2024\Dinare
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\05. Maj 2024\Euro
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\11. Nentor 2024\Dinare
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\11. Nentor 2024\Euro
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\1. Janar 2024
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\2. Shkurt 2024
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\3. Mars 2024
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\4. Prill 2024
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\5. Maj 2024
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\6. Qershor 2024
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\7. Korrik 2024
+C:\Users\korisnik\Desktop\Financa\2024\6. Raportimet Mujore\Raportimi i statistikave\Shkresat\8. Gusht 2024
+C:\Users\korisnik\Desktop\Financa\2024\Per Ambasadorin\Dokumente\New folder
+C:\Users\korisnik\Desktop\Financa\2024\Per Ambasadorin\Perkthime\New folder
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\.git\objects\info
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\.git\objects\pack
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\.git\refs\tags
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Nga Banka\05. Maj 2024\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Nga Banka\05. Maj 2024\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Nga Banka\11. Nentor 2024\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Nga Banka\11. Nentor 2024\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\1. Janar 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\2. Shkurt 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\3. Mars 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\4. Prill 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\5. Maj 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\6. Qershor 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\7. Korrik 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\2024\Raportimi i statistikave\Shkresat\8. Gusht 2024
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\01. Janar 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\01. Janar 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\02. Shkurt 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\02. Shkurt 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\03. Mars 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\03. Mars 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\04. Prill 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\04. Prill 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\05. Maj 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\05. Maj 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\06. Qershor 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\06. Qershor 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\07. Korrik 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\07. Korrik 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\08. Gusht 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\08. Gusht 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\09. Shtator 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\09. Shtator 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\10. Tetor 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\10. Tetor 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\11. Nentor 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\11. Nentor 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\12. Dhjetor 2025\Dinare
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi i statistikave\Nga Banka\12. Dhjetor 2025\Euro
+C:\Users\korisnik\Desktop\Financa\2025\6. Raportimet Mujore\Raportimi vjetor per 2025
+C:\Users\korisnik\Desktop\Financa\Shkresa\2022
+C:\Users\korisnik\Desktop\Financa\Shkresa\2023
+C:\Users\korisnik\Desktop\Financa\Shkresa\2024
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Desktop\Docs
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Desktop\Shkresa\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\personale
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Dhjetor 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Gusht 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Korrik 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Maj 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Mars 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Nentor 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Prill 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Qershor 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Shtator 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\Banka Tetor 2004
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\1  Lavdija\TRANSAKSIONET 2004\TRANSAKSIONETJANAR
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2004 deri 2009\2007\Inventare 2007\Blerje gjate vitit  2007
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2004 deri 2009\2008\1.  Statistikat mujore\9. Shtator 2008\Pagesa ne banke  shtator 2008
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2004 deri 2009\2008\1.  Statistikat mujore\Tetor 2008\Pagesa ne banke  shtator 2008\Financa
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2011\Statistikat  Mujore  per vitin 2011\02 Shkurt 2011\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2011\Statistikat  Mujore  per vitin 2011\07 Korriku\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2012\Pagesat me banke 2012\Energjia\Ambasadori
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2013\Pagesat me banke\Investime
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2013\Pagesat me banke\Pagesa per te trete(MPJ)
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2014\Pagesat me banke\Investime
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2015\Pagesat me banke\Interneti
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2010-2015\2015\Pagesat me banke\Transferta e parave nga Banka ne Visa-Karta
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2016-2018\2016\Pagesat me banke\Pagesat per MPJ-ne dhe per Te Trete\Pagesa per Te Trete, 2016
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2016-2018\2018\Pagesat me banke\Pagesat per MPJ-ne dhe per Te Trete
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2019\Pagesat me banke\Pagesa per MEPJ-ne dhe Te Trete
+C:\Users\korisnik\Desktop\Financa Materijale OLD\Dokumentet e finances - Bukurija\2019\Planifikim buxheti
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\1 - Operativni Sistemi 1\ispit
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\1 - Operativni Sistemi 1\k2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\1 - Operativni Sistemi 1\k3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\1 - Operativni Sistemi 1\Projekat
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\2 - Konkurentno i distribuirano programiranje\ispit
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\2 - Konkurentno i distribuirano programiranje\k2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\2 - Konkurentno i distribuirano programiranje\k3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\3 - Principi softverskog inzenjerstva\ispit
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\3 - Principi softverskog inzenjerstva\k3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\4 - Softverski alati baze podataka\ispit
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\4 - Softverski alati baze podataka\k1
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\4 - Softverski alati baze podataka\k2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\4 - Softverski alati baze podataka\k3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\5 - Racunarska grafika\ispit
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\5 - Racunarska grafika\k2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\5 - Racunarska grafika\k3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\6 - Performanse racunarskih sistema\ispit
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\6 - Performanse racunarskih sistema\k2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\2020 - 2021, Sem 2\6 - Performanse racunarskih sistema\k3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Menadzeri i radnici\__MACOSX\Menadzeri i radnici
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Novosti\__MACOSX\Novosti
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Queue projekti\EEConsumerQueue\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Queue projekti\EEConsumerQueue\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Queue projekti\EEConsumerQueue\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Queue projekti\EEProducerQueue\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Queue projekti\EEProducerQueue\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Queue projekti\EEProducerQueue\setup
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Queue projekti\EEProducerQueue\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_D_NS\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_D_NS\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_D_NS\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_D_S\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_D_S\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_D_S\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_ND_NS\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_ND_NS\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_ND_NS\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_ND_S\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_ND_S\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEConsumerTopic_ND_S\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEProducerTopic\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEProducerTopic\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Domaci\Topic projekti\EEProducerTopic\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\K3\Gradiliste\Gradiliste\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\K3\Gradiliste 2\Gradiliste\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\K3\Gradiliste 2\Gradiliste\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\K3\WorldJPA\WorldJPA\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\K3\WorldJPA\WorldJPA\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Menadzeri i radnici\Menadzeri i radnici\Menadzer\Menadzer\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Menadzeri i radnici\Menadzeri i radnici\Menadzer\Menadzer\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Menadzeri i radnici\Menadzeri i radnici\Menadzer\Menadzer\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Menadzeri i radnici\Menadzeri i radnici\Radnik\Radnik\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Menadzeri i radnici\Menadzeri i radnici\Radnik\Radnik\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Menadzeri i radnici\Menadzeri i radnici\Radnik\Radnik\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Menadzeri i radnici\__MACOSX\Menadzeri i radnici
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Novosti\__MACOSX\Novosti
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Queue projekti\Queue projekti\EEConsumerQueue\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Queue projekti\Queue projekti\EEConsumerQueue\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Queue projekti\Queue projekti\EEConsumerQueue\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Queue projekti\Queue projekti\EEProducerQueue\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Queue projekti\Queue projekti\EEProducerQueue\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Queue projekti\Queue projekti\EEProducerQueue\setup
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Queue projekti\Queue projekti\EEProducerQueue\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_D_NS\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_D_NS\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_D_NS\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_D_S\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_D_S\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_D_S\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_ND_NS\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_ND_NS\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_ND_NS\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_ND_S\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_ND_S\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEConsumerTopic_ND_S\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEProducerTopic\build\empty
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEProducerTopic\build\generated-sources\ap-source-output
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\Lab2\Topic projekti\Topic projekti\EEProducerTopic\test
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\Vezbe\SI3IS1-K1-Vezbe\Vezbe
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\IS1 - Inforamcioni sistemi\Old\VEZBE -PONOVO\AgencijaZaIznajmljivanjeAutomobila (1)\__MACOSX\AgencijaZaIznajmljivanjeAutomobila
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\MIPS - Mikroprocesorski sistemi\Domaci
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\MIPS - Mikroprocesorski sistemi\Rokovi
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\MIPS - Mikroprocesorski sistemi\Vezbe
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\NM - Neuralne mreze\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\NM - Neuralne mreze\Rokovi\K2\Rokovi\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\NM - Neuralne mreze\Rokovi\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\OS1\Lab
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\OS1\Predavanja
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\OS1\Projekat\other
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PIA - Programiranje internet aplikacija
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PMU - Progrmiranje mobilinh uredjaja
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PP1 - Programski Prevodioci\Ispit
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PP1 - Programski Prevodioci\K2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PP1 - Programski Prevodioci\Lab
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PS - Projektovanje softvera\2019 -2020\Other\Projektovanje softvera\Predavanja\Projektni uzorci\K1
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PS - Projektovanje softvera\2019 -2020\Print
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PS - Projektovanje softvera\2019 -2020\Vezbe\K2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PS - Projektovanje softvera\Vezbe
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\PSI\Ispitni Deo
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\RM2 - Racunarske Mreze 2\Racunarske mreze 2\K1
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\RM2 - Racunarske Mreze 2\Racunarske mreze 2\K2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\RM2 - Racunarske Mreze 2\Racunarske mreze 2\K3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - AVG\K2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - AVG\K3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - AVG\Rokovi\1 - Jun
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - AVG\Rokovi\2 - Jul
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - AVG\Rokovi\3 - Sept
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - AVG\Rokovi\4 - Oct
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - Konkurentno i distribuirano programiranje\KDP\K2
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\KDP - Konkurentno i distribuirano programiranje\KDP\K3
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\Konkurentno Programiranje\Labovi\Lab1\bin\rs\ac\bg\etf\kdp\sanja\bin
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\Konkurentno Programiranje\Labovi\Lab1\src\rs\ac\bg\etf\kdp\sanja\bin
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\Konkurentno Programiranje\Labovi\Vezbe1
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\OS1\Vezbe\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\PSI - Principi Softverskog Inzenjerstva\Predavanja\Doctrine
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\PSI - Principi Softverskog Inzenjerstva\PSI\work\Primer2018
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\PSI-AVG\Rokovi\2018 - 3\zd1
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\PSI-AVG\Rokovi\2018 - 4
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Fakultet\_old\za Februar\PSI-AVG\Rokovi\2018 - 5
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2019\Pagesat me banke\Pagesa per MEPJ-ne dhe Te Trete
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\Inventaret\Janar 2020\Shtator 2019
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\New folder\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\Statistikat mujore\06. Qershor 2020\Banka\Euro
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\Statistikat mujore\06. Qershor 2020\Banka\RSD
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\objects\info
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\objects\pack
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\refs\tags
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2020\_Other\ListePagesat
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2021\Inventaret\2020
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2021\Pagat\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2021\SNPDV dhe LNPDV\PDF version\ngrohja
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2021\Statistikat mujore\07. Korrik 2021\Banka\Visa
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2021\Statistikat mujore\12. Dhjetor 2021\Banka, Visa
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2021\Statistikat mujore\2020\12. Dhjetor 2020\Raportimi Mujor
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2021\_Other\ListePagesat
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2022\Pagat\2021\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2022\Pagesat me BANKE\Transferim parash tek viza karta\2022
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2022\Protokolli Diplomatik 2022
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2022\Sigurmiet Shendetesore\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Kerkesa per MEPJ-ne\Raportimi i listepageses
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Pagat\2021\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Pagesat me BANKE\7. Uji\Ambasada, 2022\Fatura
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Pagesat me BANKE\Transferim parash tek viza karta\2022
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Protokolli Diplomatik 2022
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Sigurmiet Shendetesore\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\SNA, SNPDV\2023\infostan
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\SNA, SNPDV\2023\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\objects\info
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\objects\pack
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\refs\tags
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Financa\2023\Statsitikat mujore 2\Raportimi 2023\Banka
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Other\New folder
+C:\Users\korisnik\Desktop\Financa Materijale OLD\OneDrive\Workspace\Projekti
+C:\Users\korisnik\Desktop\python scripts
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IEP_Internet_Programming\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IEP_Internet_Programming\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IEP_Internet_Programming\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IEP_Internet_Programming\Lectures
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IEP_Internet_Programming\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IS2_Information_Systems\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IS2_Information_Systems\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IS2_Information_Systems\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\IS2_Information_Systems\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\KDP_Concurrent_and_Distributed_Programming\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\KDP_Concurrent_and_Distributed_Programming\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\KDP_Concurrent_and_Distributed_Programming\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\KDP_Concurrent_and_Distributed_Programming\Resources
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\MIPS_Microprocessor_Systems\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\MIPS_Microprocessor_Systems\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\MIPS_Microprocessor_Systems\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\MIPS_Microprocessor_Systems\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\OS1_Operating_Systems\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\OS1_Operating_Systems\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\OS1_Operating_Systems\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PIA_Internet_Applications\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PIA_Internet_Applications\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PIA_Internet_Applications\Exercises
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PIA_Internet_Applications\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PP1_Programming_Languages\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PP1_Programming_Languages\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PP1_Programming_Languages\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PP1_Programming_Languages\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PRS_Computer_Systems_Performace\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PRS_Computer_Systems_Performace\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PRS_Computer_Systems_Performace\Exercises
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PRS_Computer_Systems_Performace\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PRS_Computer_Systems_Performace\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PRS_Computer_Systems_Performace\Resources
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PSI_Software_Engineering\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PSI_Software_Engineering\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PSI_Software_Engineering\Exercises
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PSI_Software_Engineering\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PS_Software_Design\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PS_Software_Design\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PS_Software_Design\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\PS_Software_Design\Resources
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\RM2_Computer_Networks\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\RM2_Computer_Networks\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\RM2_Computer_Networks\Exercises
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\RM2_Computer_Networks\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\RM2_Computer_Networks\Projects
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\SAB_Database_Systems\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\SAB_Database_Systems\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\SAB_Database_Systems\Resources
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\Transcripts\OS1\OS1 - Predavanje 9
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\ZP_Information_Security\Exams\Finals
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\ZP_Information_Security\Exams\Midterms
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\ZP_Information_Security\Exercises
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\ZP_Information_Security\Labs
+C:\Users\korisnik\Desktop\WORKSPACE\Faklutet_code\Courses\ZP_Information_Security\Lectures
+C:\Users\korisnik\Desktop\WORKSPACE\Fakultet\Fakultet Projekti\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\Fakultet\Fakultet Projekti\.git\objects\pack
+C:\Users\korisnik\Desktop\WORKSPACE\Fakultet\Fakultet Projekti\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\Fakultet\iep\flask\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\Fakultet\iep\flask\.git\objects\pack
+C:\Users\korisnik\Desktop\WORKSPACE\Fakultet\iep\flask\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\Financa\1_hidh_pagesat\6_Qershor_2024
+C:\Users\korisnik\Desktop\WORKSPACE\Financa\data_entry\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\Financa\data_entry\.git\objects\pack
+C:\Users\korisnik\Desktop\WORKSPACE\Financa\data_entry\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\Financa\data_entry\static
+C:\Users\korisnik\Desktop\WORKSPACE\leetcode-solutions\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\leetcode-solutions\.git\objects\pack
+C:\Users\korisnik\Desktop\WORKSPACE\leetcode-solutions\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\leetcode-solutions\tests
+C:\Users\korisnik\Desktop\WORKSPACE\leetcode-solutions\topics\arrays
+C:\Users\korisnik\Desktop\WORKSPACE\leetcode-solutions\topics\linked_list
+C:\Users\korisnik\Desktop\WORKSPACE\New folder
+C:\Users\korisnik\Desktop\WORKSPACE\random_scripts\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\random_scripts\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\STT\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\STT\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\STT\audio
+C:\Users\korisnik\Desktop\WORKSPACE\STT\chunks\KDP_Predavanja\KDP_P5
+C:\Users\korisnik\Desktop\WORKSPACE\STT\next audio
+C:\Users\korisnik\Desktop\WORKSPACE\ULUS\auth project\client
+C:\Users\korisnik\Desktop\WORKSPACE\ULUS\auth project\server
+C:\Users\korisnik\Desktop\WORKSPACE\ULUS\ulus-backend\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\ULUS\ulus-backend\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\YOUTUBE-python_course\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\YOUTUBE-python_course\.git\objects\pack
+C:\Users\korisnik\Desktop\WORKSPACE\YOUTUBE-python_course\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\Youtube_to_mp3\.git\objects\info
+C:\Users\korisnik\Desktop\WORKSPACE\Youtube_to_mp3\.git\refs\tags
+C:\Users\korisnik\Desktop\WORKSPACE\Youtube_to_mp3\done
+C:\Users\korisnik\Desktop\WORKSPACE\Youtube_to_mp3\downloads
+C:\Users\korisnik\Documents\2024\Downloads temp
+C:\Users\korisnik\Documents\2024\OneNote Notebooks
+C:\Users\korisnik\Documents\2024\Scanned Documents\Documents
+C:\Users\korisnik\Documents\2024\Sound Recordings
+C:\Users\korisnik\Documents\2024\WindowsPowerShell
+C:\Users\korisnik\Documents\Custom Office Templates
+C:\Users\korisnik\Documents\Shkresa 2024\Shkresa 322-2024, Kerkese per miratimin e faturave te transportit te sendeve personale te B Canaj dhe E Dedi
+C:\Users\korisnik\Documents\Shkresa 2024\Të ardhura\Mbi raportimin e realizimit te buxhetit te perfaqesive diplomatike per vitin 2024
+C:\Users\korisnik\Documents\YAPA2\.git\objects\info
+C:\Users\korisnik\Documents\YAPA2\.git\refs\tags
+C:\Users\korisnik\Muse Hub\Elements
+C:\Users\korisnik\OneDrive
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Apps
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\older
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\preparing for interview\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\preparing for interview\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\preparing for interview\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\preparing for interview\IOA - Zadaci
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_5, ps, rm2\Racunarske Mreze 2\SNIMCI PREDAVANJA RM2
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\IEP\Dokumenti\k2 - hadoop\IEP-MapReduce-Source_2021\MapReduce\bin
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\IEP\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\IEP\Vezbe\Vezbe 2022\V6\kod\posle\__pycache__
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\IEP\VM
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Lab
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Old\KDP 2015\Lab
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Old\KDP 2015\Rokovi
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Old\_Notes\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Old\_Rokovi\kdp21\__MACOSX\kdp21
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Old\_Vezbe\moje\.ipynb_checkpoints
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Old\_Vezbe\moje\Monitori\.ipynb_checkpoints
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\KDP\Old\_Vezbe\moje\Regioni\.ipynb_checkpoints
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab2_Django_2022\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab2_Django_2022\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab2_Django_2022\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab3_Django_2022\PSI_lab3_Django\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab3_Django_2022\PSI_lab3_Django\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab3_Django_2022\PSI_lab3_Django\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab4_Django_2022\PSI_lab4_Django\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab4_Django_2022\PSI_lab4_Django\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Lab Vezbe\PSI_Lab4_Django_2022\PSI_lab4_Django\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSFProjekat
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbAndTemplate\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbAndTemplate\target\classes\entitites
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbAndTemplate\target\DbAndTemplate-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbAndTemplate\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbAndTemplate\target\mavenproject18-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbAndTemplate\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbCRUD\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbCRUD\target\DbCRUD-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbCRUD\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbCRUD\target\mavenproject17-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\DbCRUD\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\FormAndDataTable\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\FormAndDataTable\target\FormAndDataTable-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\FormAndDataTable\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\FormAndDataTable\target\mavenproject16-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\FormAndDataTable\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\Intro\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\Intro\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\Intro\target\Intro-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\Intro\target\mavenproject15-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\Intro\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\ValidatorsAndConverters\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\ValidatorsAndConverters\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\ValidatorsAndConverters\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\JSF_vezbe_2022_2023(1)\PIA vezbe\ValidatorsAndConverters\target\ValidatorsAndConverters-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\labovi\Lab1_SI_JSF_resenje\JSFLab1\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Predavanja\K1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\11 - Testiranje
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\12 - Dokumentovanje
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PHP_MVC-detaljniji_primer\__MACOSX\PHP MVC - detaljniji primer\MVC_php_etfvesti\controllers
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PHP_MVC-detaljniji_primer\__MACOSX\PHP MVC - detaljniji primer\MVC_php_etfvesti\models
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PHP_MVC-detaljniji_primer\__MACOSX\PHP MVC - detaljniji primer\MVC_php_etfvesti\nbproject\private
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PHP_MVC-detaljniji_primer\__MACOSX\PHP MVC - detaljniji primer\MVC_php_etfvesti\views\sablon
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\PSI_Lab2_MVC\pocetni_sadrzaj\models
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\__MACOSX\PSI_Lab2_MVC\krajnji_kod\controllers
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\__MACOSX\PSI_Lab2_MVC\krajnji_kod\models
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\__MACOSX\PSI_Lab2_MVC\krajnji_kod\nbproject\private
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\__MACOSX\PSI_Lab2_MVC\krajnji_kod\views\stranice
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\__MACOSX\PSI_Lab2_MVC\krajnji_kod\views\vesti
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\__MACOSX\PSI_Lab2_MVC\pocetni_sadrzaj\controllers
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2020\__MACOSX\PSI_Lab2_MVC\pocetni_sadrzaj\views\stranice
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_MVC_2022\pocetni_kod\models
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_proceduralni_pristup_2020\__MACOSX\PSI_Lab2_proceduralni_pristup\krajnji_kod\nbproject\private
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\7 _ Lab_2 - PHP\PSI_Lab2_proceduralni_pristup_2020\__MACOSX\PSI_Lab2_proceduralni_pristup\pocetni_sadrzaj
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab2_Django_2022\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab2_Django_2022\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab2_Django_2022\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab3_Django_2022\PSI_lab3_Django\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab3_Django_2022\PSI_lab3_Django\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab3_Django_2022\PSI_lab3_Django\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab4_Django_2022\PSI_lab4_Django\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab4_Django_2022\PSI_lab4_Django\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\PSI\Vezbe\Lab Django, posle lab3\PSI_Lab4_Django_2022\PSI_lab4_Django\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\SS
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\~RG\Domaci\Golfer-Game-JavaFX-master\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\~RG\Domaci\MiniGolf-2D-master\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\~RG\Domaci\Rolling_Ball_3DGame_JavaFX-master\RollingBall_3D\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\~RG\Lab\RG_Lab3_2022\RG Lab3 - Demo\02_TransformacijePogleda\src\main\resources
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\~RG\Lab\RG_Lab4_2022\RG Lab4 - Kotrljajujuća loptica - 2022\RG Lab3 - Kotrljajujuća loptica - skelet\src\main\resources
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_6, kdp, psi, iep\~RG\Predavanja\.ipynb_checkpoints
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\IOA\Materijali\djangoProject\templates
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\MIPS\2023
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\MIPS\mips-domaci-zadatak-2022-2023-resenje\project\cubemx\code\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\MIPS\mips-po2-primer-resenje\project\cubemx\code\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\MIPS\mips_domaci_zadatak_primer_resenje\project\cubemx1\code1\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\MIPS\mips_domaci_zadatak_primer_resenje\project\cubemx2\code2\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\code\angular\app\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\code\angular\app\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\code\angular\app\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\DbCRUD\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\DbCRUD\target\DbCRUD-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\DbCRUD\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\DbCRUD\target\mavenproject17-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\DbCRUD\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 1 - 0_Intro\src\main\webapp\resources\image
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 1 - 0_Intro\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 2 - Intro\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 2 - Intro\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 2 - Intro\target\Intro-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 2 - Intro\target\mavenproject15-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 2 - Intro\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 3 - DbAndTemplate\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 3 - DbAndTemplate\target\DbAndTemplate-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 3 - DbAndTemplate\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 3 - DbAndTemplate\target\mavenproject18-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 3 - DbAndTemplate\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 4 - ValidatorsAndConverters\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 4 - ValidatorsAndConverters\target\generated-sources\annotations
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 4 - ValidatorsAndConverters\target\test-classes
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\PIA - Vežbe\JSF_vezbe_2022_2023\PIA vezbe\Vezbe 4 - ValidatorsAndConverters\target\ValidatorsAndConverters-1.0-SNAPSHOT\META-INF
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\04 Java server faces\JSFProjekat\JSFProjekat11\src\main\java\entities
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\04 Java server faces\JSFProjekat\JSFProjekat11\src\main\java\managed_beans
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\04 Java server faces\JSFProjekat\JSFProjekat11\src\test\java
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\05 Facelets
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\06 Baze podataka
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\07 Hibernate
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\08 Angular
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PIA\Vezbe\09 Mean stack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PP1\Snimci Vezbe\K3\10-1-2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_7. pp1, mips, pia, vlsi, ioa\PP1\Vezbe\v1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_8, zp, sab, prs\4 - PRS - Performase racunarskih sistema\dokumenti
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_8, zp, sab, prs\4 - PRS - Performase racunarskih sistema\lab
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\sem_8, zp, sab, prs\4 - PRS - Performase racunarskih sistema\vezbe
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_projektovanje_softvera\PS\Materijali
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_projektovanje_softvera\PS\Materijali - doc
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_projektovanje_softvera\PS\Predavanja 2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_projektovanje_softvera\PS\Vežbe 2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_projektovanje_softvera\PS\Vežbe 720p 2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_Racunarske_Mreze_2\RM2\Materijali
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_Racunarske_Mreze_2\RM2\Predavanja 2020
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_Racunarske_Mreze_2\RM2\Vežbe 2020
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g3_s1_Racunarske_Mreze_2\RM2\Vežbe 2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_informacioni_sistemi_2\IS2\Materijali\1. BPMN\Vezbe
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_informacioni_sistemi_2\IS2\Materijali\2. SOA
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_informacioni_sistemi_2\IS2\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_informacioni_sistemi_2\IS2\Vežbe
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\Domaci
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Code\GenetickiAlgoritam
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_12_Crosscorrelation_GA_and_Brute_force\Brute_force_cpp\cmake-build-debug\CMakeFiles\3.17.5
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_12_Crosscorrelation_GA_and_Brute_force\Brute_force_cpp\cmake-build-release\CMakeFiles\3.17.5
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_2_TSP_Brute_Force
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_5_Nelder_mead_simplex
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_6_Linear_programming
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_7_Simulated_Annealing
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_8_Genetic_Algorithm\Genetic Algorithm\Potvrda
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\DZ_9_Differential_Evolution\potvrde
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\K_1\2018\code
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\K_1\2019\code
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_inzenjerski_optimizovani_algoritmi\IOA-ISPit\Domaci - Optimization-Algorithms-main\K_2
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_mikroporcesorski_sistemi\MIPS\Materijali
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_mikroporcesorski_sistemi\MIPS\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programiranje_internet_aplikacija\PIA\Labovi\Lab1 - 2023-24\LAB1_2023_2024_resenje\backend\demo\.mvn
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programiranje_internet_aplikacija\PIA\Labovi\Lab1 - 2023-24\LAB1_2023_2024_resenje\backend\demo\src\main\java\com\example\demo\models
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programiranje_internet_aplikacija\PIA\Labovi\Lab1 - 2023-24\LAB1_2023_2024_resenje\backend\demo\src\test\java\com\example
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programiranje_internet_aplikacija\PIA\Labovi\Lab1 - 2023-24\LAB1_2023_2024_resenje\frontend\src\app
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programiranje_internet_aplikacija\PIA\Materijali\Vezbe\Vezbe_1\Angular_vezbe1\src\app
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programiranje_internet_aplikacija\PIA\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programiranje_internet_aplikacija\PIA\Projekat
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Delovi Knjige
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije Predavanje\PP1_P02\LeksickaAnaliza\Izvorni kod\MJCompiler\bin\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije Predavanje\PP1_P02\LeksickaAnaliza\Izvorni kod\MJCompiler\src\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije Predavanje\PP1_P02\LeksickaAnaliza\Izvorni kod\MJCompiler\test\rs\ac\bg\etf
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 11
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 12
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 2\Primeri
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 3
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 4
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 5
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 6
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Materijali\Prezentacije za vezbe (sajt)\Vezbe - 7
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\01-leksicka-analiza\bin\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\01-leksicka-analiza\src\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\01-leksicka-analiza\test\rs\ac\bg\etf
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\02-sintaksna-analiza\bin\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\02-sintaksna-analiza\src\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\02-sintaksna-analiza\test\rs\ac\bg\etf
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\03-semanticka-analiza\bin\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\03-semanticka-analiza\src\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\03-semanticka-analiza\test\rs\ac\bg\etf
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\04-generisanje-koda\bin\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\04-generisanje-koda\src\rs\ac\bg\etf\pp1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 1\g4_s1_programski_prevodioci_1\PP1\PP1\Projekat\04-generisanje-koda\test\rs\ac\bg\etf
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\OS1-vezbe 2022\vezbe05-procesi-i-niti-1\os1-vezbe05-primeri
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\OS1-vezbe 2022\vezbe06-procesi-i-niti-2-i-impl-procesa-i-niti-1\os1-vezbe06-primeri
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\2021_22 - Operating Systems 1\Project and getThreadId Modification July
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\Dusan - xv6-os-scheduler-main\xv6-os-scheduler-main
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\OS1-Projekat-2022-main\.idea
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\project-base-v1.1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\project_1\Project and getThreadId Modification July
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\project_2
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\project_3\OS1-projekat-21-22-main
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Projekat\project_4\os1-master\build
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g2_s2_OS1\Vezbe 2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_infrastruktura_elektronskog_poslovanja\IEP\Materijali\SQLAlchemyZadaci\Bank
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_infrastruktura_elektronskog_poslovanja\IEP\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_infrastruktura_elektronskog_poslovanja\IEP\Vežbe\IEP-Vezbe-Notes\01_intro_flask
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_konkurentno_i_distribuirano_programiranje\KDP\Materijali\Kodovi 2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_konkurentno_i_distribuirano_programiranje\KDP\Predavanja 2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_konkurentno_i_distribuirano_programiranje\KDP\Predavanja 2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_konkurentno_i_distribuirano_programiranje\KDP\Vežbe 2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_konkurentno_i_distribuirano_programiranje\KDP\Vežbe 2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_principi_softverskog_inzenjerstva\PSI\Materijali K1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_principi_softverskog_inzenjerstva\PSI\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_principi_softverskog_inzenjerstva\PSI\Rokovi
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_principi_softverskog_inzenjerstva\PSI\Vežbe 2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_softversi alati baza\Predavanaj -  video\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g3_s2_softversi alati baza\Softverski alati baza podataka\Materijali\Vezbe\2 - Fizicko projektovanje
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\Materijali\resenja rokova\2018_2019\SI_K1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\Materijali\resenja rokova\2018_2019\SI_K2
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\Materijali\resenja rokova\2019_2020
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\Materijali\resenja rokova\2020_2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\Materijali\resenja rokova\2022_2023
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\Predavanja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2018_2019\avgust
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2018_2019\jul
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2018_2019\jun
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2018_2019\septembar
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2018_2019\SI_K1
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2018_2019\SI_K2
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2019_2020
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2020_2021
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\resenja rokova\2022_2023
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Performase racunarskih sistema\Vežbe
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\g4_s2_Zastita podataka
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\ETF\SNIMCI PREDAVANJA\Semestar 2\Notes\Notes\IEP\Vezbe
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2019\Pagesat me banke\Pagesa per MEPJ-ne dhe Te Trete
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2020\New folder\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2020\Statistikat mujore\06. Qershor 2020\Banka\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2020\Statistikat mujore\06. Qershor 2020\Banka\RSD
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2020\Statistikat mujore\10. Tetor 2020\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2020\_Other\ListePagesat
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2021\Pagat\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2021\SNPDV dhe LNPDV\PDF version\ngrohja
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2021\Statistikat mujore\12. Dhjetor 2020\Raportimi Mujor
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2021\_Other\ListePagesat
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Kerkesa per MEPJ-ne\Raportimi i listepageses
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Pagat\2021\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Pagesat me BANKE\7. Uji\Ambasada, 2022\Fatura
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Pagesat me BANKE\Transferim parash tek viza karta\2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Protokolli Diplomatik 2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Sigurmiet Shendetesore\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\SNA, SNPDV\2023\infostan
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\SNA, SNPDV\2023\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Statsitikat mujore 2\Raportimi 2023\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023\Statsitikat mujore 2\Raportimi 2023\Banka
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Kerkesa per MEPJ-ne\Raportimi i listepageses
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Pagat\2021\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Pagesat me BANKE\7. Uji\Ambasada, 2022\Fatura
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Pagesat me BANKE\Transferim parash tek viza karta\2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Protokolli Diplomatik 2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Sigurmiet Shendetesore\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\SNA, SNPDV\2023\infostan
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\SNA, SNPDV\2023\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\.git\objects\info
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\.git\objects\pack
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\.git\refs\tags
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (1)\Statsitikat mujore 2\Raportimi 2023\Banka
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Automjetet\Dhjetor 2023
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Instruksionet bankare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Pagesat\00. Pagat
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Pagesat\01. Qirate
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Pagesat\04. Ngrohja\Banesa e z. Idlir Kaba
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Pagesat\04. Ngrohja\Bankesa e z. Ambasador
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Pagesat\05. Energjia elektrike\Banesa e z. Idlir Kaba 2023
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\Pagesat\07. Uji\Ambasada, 2022\Fatura
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\statistika_mujore\03. Mars 2023\Banka
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\statistika_mujore\04. Prill 2023\Banka
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2023 (2)\statistika_mujore\Te derguara shkresat\12. Dhjetor 2023
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\01. Pagesa, Banka\05. Ngrohja\Banesa e z. Idlir Kaba
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\01. Pagesa, Banka\07. Uji\Ambasada, 2024\Fatura
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\05. Maj 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\05. Maj 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\06. Qershor 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\06. Qershor 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\07. Korrik 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\07. Korrik 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\08. Gusht 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\08. Gusht 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\09. Shtator 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\09. Shtator 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\10. Tetor 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\10. Tetor 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\11. Nentor 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\11. Nentor 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\12. Dhjetor 2024\Dinare
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\6. Raportimet Mujore\Nga Banka\12. Dhjetor 2024\Euro
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\2024\Per Ambasadorin\Perkthime\New folder
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\Shkresa\2022
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\Shkresa\2023
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\Financa\Shkresa\2024
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\youtube\LoreDynasty
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\youtube\weTheLiving\Processed audio\0507\common_attachment
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\youtube\weTheLiving\Processed audio\0507\matting
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\youtube\weTheLiving\Processed audio\0507\Resources\audioAlg
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\youtube\weTheLiving\Processed audio\0507\Resources\videoAlg
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\youtube\weTheLiving\Processed audio\0507\smart_crop
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\DevDojoDynasty-Javascript for Beginners Course\Final code\Project 1  - To-Do List Application
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\DevDojoDynasty-Javascript for Beginners Course\Projects
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-09, Monday\mario-2sessions
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-09, Monday\vahida-2sessions
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-10, Tuesday\vahida-3 sessions
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-11, Wednesday\Vahida 3 Sessions
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-16, Monday\PIA - P3
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-23, Monday\PIA-P4
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-26, Thursday
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-27, Friday
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-28, Saturday
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-29, Sunday
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-30, Monday
+C:\Users\korisnik\OneDrive - student.etf.bg.ac.rs\_MY PC\ON FOCUS\October\2023-10-31, Tuesday
+C:\Users\korisnik\Pictures\Scans
+C:\Users\korisnik\scoop\apps\scoop\current\.git\objects\info
+C:\Users\korisnik\scoop\apps\scoop\current\.git\refs\tags
+C:\Users\korisnik\scoop\buckets\main\.git\objects\info
+C:\Users\korisnik\scoop\buckets\main\.git\refs\tags
+C:\Users\korisnik\Videos\AnyDesk
+C:\Users\korisnik\Videos\Captures\venv\Include
+C:\Users\korisnik\WebstormProjects\projekat-ulus\.git\objects\info
+C:\Users\korisnik\WebstormProjects\projekat-ulus\.git\refs\tags
+C:\Users\korisnik\WebstormProjects\ulus\.git\objects\info
+C:\Users\korisnik\WebstormProjects\ulus\.git\objects\pack
+C:\Users\korisnik\WebstormProjects\ulus\.git\refs\tags
